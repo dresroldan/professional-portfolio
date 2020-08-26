@@ -16,4 +16,4 @@ An updated and dynamic portfolio showcasing my skills and recent projects for po
 
 https://dresroldan.github.io/professional-portfolio/
 
-![](portfolioscreenshot.png)
+![](assets/portfolioscreenshot.png)
