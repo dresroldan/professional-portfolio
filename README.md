@@ -6,10 +6,10 @@ An updated and dynamic portfolio showcasing my skills and recent projects for po
 
 ## Technologies
 
-*HTML
-*CSS
-*BOOTSTRAP
-*FONT AWESOME
+*HTML</br>
+*CSS</br>
+*BOOTSTRAP</br>
+*FONT AWESOME</br>
 
 
 ## Website
