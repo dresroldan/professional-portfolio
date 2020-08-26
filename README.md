@@ -2,7 +2,7 @@
 
 ## Description
 
-An updated and dynamic portfolio showcasing my skills and recent projects for potential employers and clients. 
+An updated and dynamic portfolio showcasing my resume and recent projects for potential employers and clients. 
 
 ## Technologies
 
