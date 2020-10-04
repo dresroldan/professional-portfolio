@@ -2,18 +2,18 @@
 
 ## Description
 
-An updated and dynamic portfolio showcasing my skills and recent projects for potential employers and clients. 
+An updated and dynamic portfolio showcasing my resume and recent projects for potential employers and clients. 
 
 ## Technologies
 
-*HTML
-*CSS
-*BOOTSTRAP
-*FONT AWESOME
+*HTML</br>
+*CSS</br>
+*BOOTSTRAP</br>
+
 
 
 ## Website
 
 https://dresroldan.github.io/professional-portfolio/
 
-![](portfolioscreenshot.png)
+![](assets/portfolioscreenshot.png)
